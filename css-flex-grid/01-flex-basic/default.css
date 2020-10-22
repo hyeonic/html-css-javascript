@@ -1,4 +1,4 @@
-html {
+/* html { */
 	font-family: 'Apple SD Gothic Neo', Roboto, 'Noto Sans KR', NanumGothic, 'Malgun Gothic', sans-serif;
 	color: #555;
 	line-height: 1.2;
@@ -54,7 +54,7 @@ button {
 }
 
 .flex-container {
-	/* padding: 10px; */
+	padding: 10px;
 	background: lightgray;
 }
 .flex-item {
